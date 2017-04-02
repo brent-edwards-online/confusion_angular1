@@ -21,7 +21,7 @@ angular.module('confusionApp')
                 this.getFavouriteDish = function()
                 {
                     return $http.get('data/dishes.json');
-                }
+                };
 
                 this.getDishes = function(){                    
                     //return $resource(baseurl+"dishes/:id",null,{'update':{method:'PUT'}});
@@ -31,7 +31,7 @@ angular.module('confusionApp')
                 this.getPromo = function()
                 {
                     return $http.get('data/promotions.json');
-                }
+                };
                            
                 this.getPromotion = function () {
                     //return $resource(baseurl+"promotions/:id",null,{'update':{method:'PUT'}});
