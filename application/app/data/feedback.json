@@ -1,0 +1,15 @@
+[
+    {
+      "mychannel": "",
+      "firstName": "Bob",
+      "lastName": "Bob",
+      "agree": false,
+      "email": "bob@bonb",
+      "tel": {
+        "areaCode": "09",
+        "number": "0000"
+      },
+      "comments": "llll",
+      "id": 1
+    }
+]
