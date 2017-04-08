@@ -2,3 +2,4 @@ application/dist/
 application/node_modules/
 application/bower_components/
 application/.tmp/
+*.zip
